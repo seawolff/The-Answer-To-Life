@@ -1,5 +1,5 @@
 #The-Answer-To-Life
-##An shared GIF repo.
+##A shared GIF repo.
 
 Feel free to fork and contribute.
 
@@ -7,6 +7,6 @@ _Please note:_ We do not claim to own any of these images. These are GIFs that w
 
 ##To add new GIFS
 
-Simply add new gifs to this folder and run
+Simply add new gifs to the gifs folder and run
 
 `python make.py`
